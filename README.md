@@ -79,7 +79,7 @@ Welcome to the **Solo Leveling Fandom App** — an immersive mobile experience b
 
 ### Steps
 ```bash
-git clone https://github.com/yourusername/solo-leveling-fandom-app.git
+git clone https://github.com/taha170717/SoloLeveling.git
 cd solo-leveling-fandom-app
 flutter pub get
 flutter run
