@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 import 'package:shadow_monarch/app/routes/app_pages.dart';
 import 'package:shadow_monarch/app/theme/app_theme.dart';
 import 'package:shadow_monarch/app/utils/dependency_injection.dart';
-
+///378#8_(#(*+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   
